@@ -5,6 +5,6 @@
 
 - The results of the A* Algorithm are as follows:
 
-![](https://github.com/gholinejad/BFS-DFS-Vacuum-Cleaner-AI/blob/master/Results/DFS%20in%20AI%20Vacuum%20Cleaner%20World.gif)
+![](https://github.com/gholinejad/AStar-in-AI/blob/master/Result/AStar%20Result%20GUI.gif)
 
 
